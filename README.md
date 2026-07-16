@@ -1,6 +1,6 @@
 trey-dillon/
 │
-├── README.md                    <-- Your GitHub profile homepage
+├── README.md
 │
 ├── home-lab/
 │   ├── README.md
