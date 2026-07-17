@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./banner.png" alt="Trey Dillon Cybersecurity Banner" width="100%">
+  <img src="./cybersecurity-banner.png" alt="Trey Dillon Cybersecurity Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Trey Dillon 👋</h1>
+<br>Hi, I'm Trey Dillon 👋</h1>
 
 <h3 align="center">
 IT & Cybersecurity Graduate | Aspiring SOC Analyst | Blue Team Enthusiast
