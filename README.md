@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cybersecurity-banner.png" alt="Trey Dillon Cybersecurity Banner" width="100%">
+  <img src="./Banner_Website.png" alt="Trey Dillon Cybersecurity Banner" width="100%">
 </p>
 
 <br>Hi, I'm Trey Dillon 👋</h1>
