@@ -152,7 +152,7 @@ Completed hands-on labs covering:
 Seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can apply my knowledge of networking, Windows/Linux administration, security monitoring, and defensive security while continuing to grow in incident response.
 
 ---
-# 📄 Resume
+# Resume
 
 View my current resume:
 
