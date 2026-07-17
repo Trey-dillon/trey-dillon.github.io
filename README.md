@@ -30,6 +30,15 @@ My hands-on experience includes:
 I enjoy creating practical projects that strengthen my skills in threat detection, system security, and incident response.
 
 ---
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-SOC%20Analyst-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Blue%20Team-Defense-darkblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-Administration-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Windows-Administration-0078D6?style=for-the-badge">
+
+</p>
+
 
 # 🧰 Technical Skills
 
