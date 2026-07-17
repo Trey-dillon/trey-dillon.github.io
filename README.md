@@ -108,13 +108,6 @@ Hands-on defensive security project focused on Windows event logs, authenticatio
 
 🔗 [View Project](https://github.com/Trey-dillon/soc-log-analysis-lab)
 
-Skills practiced:
-
-- Packet capture analysis
-- Network discovery
-- Port scanning
-- Service enumeration
-
 
 ## 🐧 Linux Administration Labs
 
