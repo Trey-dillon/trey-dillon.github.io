@@ -1,4 +1,4 @@
-# Hi, I'm Trey Dillon 👋
+# Hi, I'm Trey Dillon
 
 ## Cybersecurity Student | Aspiring SOC Analyst
 
