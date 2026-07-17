@@ -84,7 +84,10 @@ I enjoy creating practical projects that strengthen my skills in threat detectio
 ## 🖥️ Home Cybersecurity Lab
 
 Documentation of my personal cybersecurity lab environment covering Windows/Linux administration, networking, virtualization, and defensive security practice.
-(Still a work in progress, my desktop is currenlty being moved. Everything on this website has been done on a Macbook using Linux or Windows 11.)
+
+Still a work in progress! My desktop is currenlty being moved. Everything on this website has been done on a Macbook using Linux or Windows 11.
+
+The desktop in question had a Proxmox install with an ethernet cable ready to go.
 
 🔗 [View Project](https://github.com/Trey-dillon/home-cybersecurity-lab)
 
