@@ -1,71 +1,139 @@
 <p align="center">
-  <img src="./banner.png" alt="Trey Dillon Banner" width="100%">
+  <img src="./banner.png" alt="Trey Dillon Cybersecurity Banner" width="100%">
 </p>
 
-<br>
+<h1 align="center">Hi, I'm Trey Dillon 👋</h1>
 
-## IT & Cybersecurity Graduate | Aspiring SOC Analyst
+<h3 align="center">
+IT & Cybersecurity Graduate | Aspiring SOC Analyst | Blue Team Enthusiast
+</h3>
 
-I'm an Information Technology Management and Cybersecurity graduate with a passion for blue team security, system administration, and network defense. I enjoy building hands-on cybersecurity projects through home labs, virtualization, and practical security testing while continuing to expand my skills for a Security Operations Center (SOC) role.
+<p align="center">
+  Building hands-on experience in cybersecurity, system administration, and network defense through labs, virtualization, and security projects.
+</p>
 
 ---
 
-## Technical Skills
+# 🛡️ About Me
 
-### Operating Systems
-- Windows 10/11
-- Windows Server
-- Ubuntu Linux
-- Debian Linux
+I am an Information Technology Management and Cybersecurity graduate focused on building a career in Security Operations (SOC) and defensive cybersecurity.
 
-### Networking
+My hands-on experience includes:
+
+- Linux administration and troubleshooting
+- Windows administration and Active Directory
+- Network analysis using Wireshark
+- Network scanning and enumeration with Nmap
+- Virtual machine environments and home labs
+- Cybersecurity training labs and security challenges
+
+I enjoy creating practical projects that strengthen my skills in threat detection, system security, and incident response.
+
+---
+
+# 🧰 Technical Skills
+
+## Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+## Security Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2E2E2E?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft)
+
+---
+
+## Networking
+
 - TCP/IP
 - DNS
 - DHCP
 - VLAN Fundamentals
 - Network Troubleshooting
+- Packet Analysis
+- IP Addressing & Subnetting
 
-### Security Tools
-- Nmap
-- Wireshark
-- Active Directory
-- Linux CLI
+---
 
-### Virtualization
+## Virtualization
+
 - VirtualBox
 - VMware
-
-### Learning
-- Python
-- PowerShell
-- SIEM Fundamentals
+- Windows Server Labs
+- Linux Server Labs
 
 ---
 
-## Current Projects
+# 🚀 Cybersecurity Projects
 
-- Home Cybersecurity Lab
-- Active Directory Lab
-- Linux Administration Lab
-- Network Analysis with Wireshark
-- Nmap Scanning & Enumeration
-- TryHackMe Learning Labs
+## 🖥️ Home Cybersecurity Lab
+
+Built a personal virtualized lab environment to practice:
+
+- Windows and Linux administration
+- Networking configuration
+- Security hardening
+- Troubleshooting
+- System management
+
+
+## 🔍 Network Analysis Lab
+
+Tools:
+- Wireshark
+- Nmap
+
+Skills practiced:
+
+- Packet capture analysis
+- Network discovery
+- Port scanning
+- Service enumeration
+
+
+## 🐧 Linux Administration Labs
+
+Hands-on experience with:
+
+- Ubuntu/Debian systems
+- User management
+- Permissions
+- Firewall configuration
+- Network troubleshooting
+
+
+## 🔐 TryHackMe & Cyber Range Training
+
+Completed hands-on labs covering:
+
+- Security fundamentals
+- Networking
+- Linux
+- Defensive security concepts
+- Vulnerability assessment
 
 ---
 
-## Certifications
+# 📜 Certifications
 
-- CompTIA Security+ (In Progress)
-- CompTIA Network+ (Studying)
+🎓 CompTIA Security+ — In Progress
 
----
-
-## Career Objective
-
-I'm seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can apply my knowledge of networking, Windows and Linux administration, threat detection, and security monitoring while continuing to grow in incident response and defensive security.
+🌐 CompTIA Network+ — Studying
 
 ---
 
-## Connect With Me
+# 🎯 Career Objective
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/treyadamdillon)
+Seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can apply my knowledge of networking, Windows/Linux administration, security monitoring, and defensive security while continuing to grow in incident response.
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/treyadamdillon)
