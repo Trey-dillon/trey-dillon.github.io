@@ -88,11 +88,13 @@ Documentation of my personal cybersecurity lab environment covering Windows/Linu
 🔗 [View Project](https://github.com/Trey-dillon/home-cybersecurity-lab)
 
 
+
 ## 🪪 Active Directory Home Lab
 
 Enterprise-style Windows domain environment covering Active Directory, users, groups, Group Policy, and IAM concepts.
 
 🔗 [View Project](https://github.com/Trey-dillon/active-directory-home-lab)
+
 
 
 ## 🦈 Wireshark Network Analysis Lab
@@ -102,6 +104,7 @@ Hands-on packet analysis project covering TCP/IP traffic, protocols, troubleshoo
 🔗 [View Project](https://github.com/Trey-dillon/wireshark-network-analysis-lab)
 
 
+
 ## 🔎 Nmap Network Scanning Lab
 
 Hands-on network reconnaissance project covering host discovery, port scanning, service enumeration, and security assessment techniques.
@@ -109,11 +112,13 @@ Hands-on network reconnaissance project covering host discovery, port scanning, 
 🔗 [View Project](https://github.com/Trey-dillon/nmap-network-scanning-lab)
 
 
+
 ## 🛡️ SOC Analyst Log Analysis Lab
 
 Hands-on defensive security project focused on Windows event logs, authentication monitoring, security investigations, and SIEM concepts.
 
 🔗 [View Project](https://github.com/Trey-dillon/soc-log-analysis-lab)
+
 
 
 ## 🐧 Linux Administration Labs
@@ -125,6 +130,7 @@ Hands-on experience with:
 - Permissions
 - Firewall configuration
 - Network troubleshooting
+
 
 
 ## TryHackMe & Cyber Range Training
@@ -139,6 +145,7 @@ Completed hands-on labs covering:
 
 ---
 
+
 # Certifications
 
 🎓 CompTIA Security+ — In Progress
@@ -147,11 +154,14 @@ Completed hands-on labs covering:
 
 ---
 
+
 # Career Objective
 
 Seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can apply my knowledge of networking, Windows/Linux administration, security monitoring, and defensive security while continuing to grow in incident response.
 
 ---
+
+
 # Resume
 
 View my current resume:
