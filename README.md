@@ -90,6 +90,12 @@ Enterprise-style Windows domain environment covering Active Directory, users, gr
 
 🔗 [View Project](https://github.com/Trey-dillon/active-directory-home-lab)
 
+## 🦈 Wireshark Network Analysis Lab
+
+Hands-on packet analysis project covering TCP/IP traffic, protocols, troubleshooting, and security monitoring concepts.
+
+🔗 [View Project](https://github.com/Trey-dillon/wireshark-network-analysis-lab)
+
 ## 🔍 Network Analysis Lab
 
 Tools:
