@@ -152,13 +152,13 @@ Completed hands-on labs covering:
 Seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can apply my knowledge of networking, Windows/Linux administration, security monitoring, and defensive security while continuing to grow in incident response.
 
 ---
-
-# 📫 Connect With Me
-
 # 📄 Resume
 
 View my current resume:
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Trey-dillon/resume-and-cover-letter)
+
+
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/treyadamdillon)
