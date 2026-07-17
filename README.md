@@ -108,12 +108,6 @@ Hands-on defensive security project focused on Windows event logs, authenticatio
 
 🔗 [View Project](https://github.com/Trey-dillon/soc-log-analysis-lab)
 
-## 🔍 Network Analysis Lab
-
-Tools:
-- Wireshark
-- Nmap
-
 Skills practiced:
 
 - Packet capture analysis
