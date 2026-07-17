@@ -96,6 +96,12 @@ Hands-on packet analysis project covering TCP/IP traffic, protocols, troubleshoo
 
 🔗 [View Project](https://github.com/Trey-dillon/wireshark-network-analysis-lab)
 
+## 🔎 Nmap Network Scanning Lab
+
+Hands-on network reconnaissance project covering host discovery, port scanning, service enumeration, and security assessment techniques.
+
+🔗 [View Project](https://github.com/Trey-dillon/nmap-network-scanning-lab)
+
 ## 🔍 Network Analysis Lab
 
 Tools:
