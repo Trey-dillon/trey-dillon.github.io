@@ -64,4 +64,4 @@ I'm seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I
 
 ## Connect With Me
 
-- LinkedIn: *www.linkedin.com/in/treyadamdillon*
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/treyadamdillon)
