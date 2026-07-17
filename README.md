@@ -14,7 +14,7 @@ IT & Cybersecurity Graduate | Aspiring SOC Analyst | Blue Team Enthusiast
 
 ---
 
-# 🛡️ About Me
+# About Me
 
 I am an Information Technology Management and Cybersecurity graduate focused on building a career in Security Operations (SOC) and defensive cybersecurity.
 
@@ -79,7 +79,7 @@ I enjoy creating practical projects that strengthen my skills in threat detectio
 
 ---
 
-# 🚀 Cybersecurity Projects
+# Cybersecurity Projects
 
 ## 🖥️ Home Cybersecurity Lab
 
@@ -88,7 +88,7 @@ Documentation of my personal cybersecurity lab environment covering Windows/Linu
 🔗 [View Project](https://github.com/Trey-dillon/home-cybersecurity-lab)
 
 
-## 🔐 Active Directory Home Lab
+## 🪪 Active Directory Home Lab
 
 Enterprise-style Windows domain environment covering Active Directory, users, groups, Group Policy, and IAM concepts.
 
@@ -127,7 +127,7 @@ Hands-on experience with:
 - Network troubleshooting
 
 
-## 🔐 TryHackMe & Cyber Range Training
+## TryHackMe & Cyber Range Training
 
 Completed hands-on labs covering:
 
@@ -139,7 +139,7 @@ Completed hands-on labs covering:
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 🎓 CompTIA Security+ — In Progress
 
@@ -147,7 +147,7 @@ Completed hands-on labs covering:
 
 ---
 
-# 🎯 Career Objective
+# Career Objective
 
 Seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can apply my knowledge of networking, Windows/Linux administration, security monitoring, and defensive security while continuing to grow in incident response.
 
