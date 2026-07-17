@@ -3,7 +3,6 @@
 </p>
 
 <br>
-# Hi, I'm Trey Dillon
 
 ## IT & Cybersecurity Graduate | Aspiring SOC Analyst
 
