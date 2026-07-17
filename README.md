@@ -84,6 +84,11 @@ Documentation of my personal cybersecurity lab environment covering Windows/Linu
 - Troubleshooting
 - System management
 
+## 🔐 Active Directory Home Lab
+
+Enterprise-style Windows domain environment covering Active Directory, users, groups, Group Policy, and IAM concepts.
+
+🔗 [View Project](https://github.com/Trey-dillon/active-directory-home-lab)
 
 ## 🔍 Network Analysis Lab
 
