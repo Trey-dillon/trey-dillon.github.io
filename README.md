@@ -1,8 +1,8 @@
 # Hi, I'm Trey Dillon
 
-## Cybersecurity Student | Aspiring SOC Analyst
+## IT & Cybersecurity Graduate | Aspiring SOC Analyst
 
-I'm an Information Technology Management and Cybersecurity student with a passion for blue team security, system administration, and network defense. I'm building hands-on experience through home labs, virtual machines, and cybersecurity training while preparing for a career in a Security Operations Center (SOC).
+I'm an Information Technology Management and Cybersecurity graduate with a passion for blue team security, system administration, and network defense. I enjoy building hands-on cybersecurity projects through home labs, virtualization, and practical security testing while continuing to expand my skills for a Security Operations Center (SOC) role.
 
 ---
 
@@ -56,16 +56,9 @@ I'm an Information Technology Management and Cybersecurity student with a passio
 
 ---
 
-## Goals
+## Career Objective
 
-I'm working toward a SOC Analyst role where I can apply my skills in:
-
-- Threat Detection
-- Incident Response
-- Network Monitoring
-- Log Analysis
-- Vulnerability Assessment
-- System Hardening
+I'm seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can apply my knowledge of networking, Windows and Linux administration, threat detection, and security monitoring while continuing to grow in incident response and defensive security.
 
 ---
 
