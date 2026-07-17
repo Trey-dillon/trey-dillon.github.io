@@ -74,7 +74,9 @@ I enjoy creating practical projects that strengthen my skills in threat detectio
 
 ## 🖥️ Home Cybersecurity Lab
 
-Built a personal virtualized lab environment to practice:
+Documentation of my personal cybersecurity lab environment covering Windows/Linux administration, networking, virtualization, and defensive security practice.
+
+🔗 [View Project](https://github.com/Trey-dillon/home-cybersecurity-lab)
 
 - Windows and Linux administration
 - Networking configuration
