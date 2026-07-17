@@ -3,7 +3,6 @@
 </p>
 
 <br> 
-</h1> Hi, I'm Trey Dillon
 
 <h3 align="center">
 IT & Cybersecurity Graduate | Aspiring SOC Analyst | Blue Team Enthusiast
