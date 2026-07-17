@@ -40,7 +40,7 @@ I enjoy creating practical projects that strengthen my skills in threat detectio
 </p>
 
 
-# 🧰 Technical Skills
+# Technical Skills
 
 ## Operating Systems
 
