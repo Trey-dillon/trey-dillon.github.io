@@ -71,4 +71,4 @@ I'm working toward a SOC Analyst role where I can apply my skills in:
 
 ## Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: *www.linkedin.com/in/treyadamdillon*
