@@ -161,4 +161,10 @@ Seeking an entry-level SOC Analyst or Cybersecurity Analyst position where I can
 
 # 📫 Connect With Me
 
+# 📄 Resume
+
+View my current resume:
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Trey-dillon/resume/blob/main/Trey_Dillon_Cybersecurity_Resume.pdf)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/treyadamdillon)
