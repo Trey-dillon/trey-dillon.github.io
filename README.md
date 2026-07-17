@@ -1,4 +1,4 @@
-<img src="./images/banner.png" width="100%"># Hi, I'm Trey Dillon
+# Hi, I'm Trey Dillon
 
 ## IT & Cybersecurity Graduate | Aspiring SOC Analyst
 
