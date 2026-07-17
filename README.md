@@ -102,6 +102,12 @@ Hands-on network reconnaissance project covering host discovery, port scanning, 
 
 🔗 [View Project](https://github.com/Trey-dillon/nmap-network-scanning-lab)
 
+## 🛡️ SOC Analyst Log Analysis Lab
+
+Hands-on defensive security project focused on Windows event logs, authentication monitoring, security investigations, and SIEM concepts.
+
+🔗 [View Project](https://github.com/Trey-dillon/soc-log-analysis-lab)
+
 ## 🔍 Network Analysis Lab
 
 Tools:
