@@ -88,15 +88,6 @@ Documentation of my personal cybersecurity lab environment covering Windows/Linu
 🔗 [View Project](https://github.com/Trey-dillon/home-cybersecurity-lab)
 
 
-
-## 🪪 Active Directory Home Lab
-
-Enterprise-style Windows domain environment covering Active Directory, users, groups, Group Policy, and IAM concepts.
-
-🔗 [View Project](https://github.com/Trey-dillon/active-directory-home-lab)
-
-
-
 ## 🦈 Wireshark Network Analysis Lab
 
 Hands-on packet analysis project covering TCP/IP traffic, protocols, troubleshooting, and security monitoring concepts.
@@ -119,7 +110,11 @@ Hands-on defensive security project focused on Windows event logs, authenticatio
 
 🔗 [View Project](https://github.com/Trey-dillon/soc-log-analysis-lab)
 
+## 🪪 Active Directory Home Lab
 
+Enterprise-style Windows domain environment covering Active Directory, users, groups, Group Policy, and IAM concepts.
+
+🔗 [View Project](https://github.com/Trey-dillon/active-directory-home-lab)
 
 ## 🐧 Linux Administration Labs
 
