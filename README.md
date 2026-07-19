@@ -110,7 +110,7 @@ Hands-on defensive security project focused on Windows event logs, authenticatio
 
 🔗 [View Project](https://github.com/Trey-dillon/soc-log-analysis-lab)
 
-# 📊 Splunk SIEM Home Lab
+## 📊 Splunk SIEM Home Lab
 
 The project simulates a basic Security Operations Center (SOC) workflow by collecting Windows telemetry, monitoring process and authentication activity, and building an investigation timeline from security events.
 
