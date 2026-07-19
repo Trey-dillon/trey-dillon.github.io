@@ -104,7 +104,7 @@ Hands-on network reconnaissance project covering host discovery, port scanning, 
 
 
 
-## 🛡️ SOC Analyst Log Analysis Lab
+## 🛡️ Splunk SIEM Detection & Incident Investigation Lab
 
 Hands-on defensive security project focused on Windows event logs, authentication monitoring, security investigations, and SIEM concepts.
 
